@@ -29,6 +29,9 @@
 ## Installation
 
 ```bash
+# Install redis for storing background jobs info
+$ sudo apt install redis-server
+
 $ npm install
 ```
 
